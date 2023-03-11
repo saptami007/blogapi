@@ -33,6 +33,7 @@ $ npm install
 ```
 
 ## Running the app
+## Please enter the Mongo DB String and Jwt Secret key in config->keys.ts
 
 ```bash
 # Run the app
